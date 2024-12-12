@@ -1,0 +1,992 @@
+{
+  "os_type": "windows",
+  "total_certificates": 82,
+  "top_issuers": {
+    "Interezen CA - Interezen": {
+      "count": 2,
+      "avg_validity": 3650.0,
+      "algorithms": {
+        "sha256WithRSAEncryption": 2
+      },
+      "algorithm_types": {
+        "RSA": 2
+      }
+    },
+    "DigiCert Inc - DigiCert Trusted Root G4 - www.digicert.com": {
+      "count": 2,
+      "avg_validity": 8933.0,
+      "algorithms": {
+        "sha384WithRSAEncryption": 2
+      },
+      "algorithm_types": {
+        "RSA": 2
+      }
+    },
+    "GlobalSign nv-sa - GlobalSign Root CA - Root CA": {
+      "count": 2,
+      "avg_validity": 10741.0,
+      "algorithms": {
+        "sha1WithRSAEncryption": 2
+      },
+      "algorithm_types": {
+        "RSA": 2
+      }
+    },
+    "thawte, Inc. - thawte Primary Root CA - Certification Services Division": {
+      "count": 2,
+      "avg_validity": 10834.0,
+      "algorithms": {
+        "sha1WithRSAEncryption": 2
+      },
+      "algorithm_types": {
+        "RSA": 2
+      }
+    },
+    "VeriSign, Inc. - VeriSign Class 3 Public Primary Certification Authority - G5 - VeriSign Trust Network": {
+      "count": 2,
+      "avg_validity": 10843.0,
+      "algorithms": {
+        "sha1WithRSAEncryption": 2
+      },
+      "algorithm_types": {
+        "RSA": 2
+      }
+    },
+    "VeriSign, Inc. - VeriSign Universal Root Certification Authority - VeriSign Trust Network": {
+      "count": 2,
+      "avg_validity": 10835.0,
+      "algorithms": {
+        "sha256WithRSAEncryption": 2
+      },
+      "algorithm_types": {
+        "RSA": 2
+      }
+    },
+    "DigiCert Inc - DigiCert Assured ID Root CA - www.digicert.com": {
+      "count": 2,
+      "avg_validity": 9131.0,
+      "algorithms": {
+        "sha1WithRSAEncryption": 2
+      },
+      "algorithm_types": {
+        "RSA": 2
+      }
+    },
+    "Blizzard Entertainment - Blizzard Battle.net Local Cert - Battle.net": {
+      "count": 1,
+      "avg_validity": 3650.0,
+      "algorithms": {
+        "sha256WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    },
+    "iniLINE Co., Ltd. - iniLINE CrossEX RootCA2": {
+      "count": 1,
+      "avg_validity": 29667.0,
+      "algorithms": {
+        "sha256WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    },
+    "Microsoft Root Certificate Authority": {
+      "count": 1,
+      "avg_validity": 7305.0,
+      "algorithms": {
+        "sha1WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    },
+    "Cyberlink - RDME": {
+      "count": 1,
+      "avg_validity": 3650.0,
+      "algorithms": {
+        "sha256WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    },
+    "DigiCert, Inc. - DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1": {
+      "count": 1,
+      "avg_validity": 1095.0,
+      "algorithms": {
+        "sha256WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    },
+    "Thawte - Thawte Timestamping CA - Thawte Certification": {
+      "count": 1,
+      "avg_validity": 8765.0,
+      "algorithms": {
+        "md5WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    },
+    "LumenSoft CA - Mobile": {
+      "count": 1,
+      "avg_validity": 14600.0,
+      "algorithms": {
+        "sha1WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    },
+    "Microsoft Root Authority - Copyright (c) 1997 Microsoft Corp.": {
+      "count": 1,
+      "avg_validity": 8756.0,
+      "algorithms": {
+        "md5WithRSAEncryption": 1
+      },
+      "algorithm_types": {
+        "RSA": 1
+      }
+    }
+  },
+  "average_validity_days": 12760.69512195122,
+  "expired_certificates": 12,
+  "signature_algorithms": {
+    "sha256WithRSAEncryption": 33,
+    "sha384WithRSAEncryption": 9,
+    "sha1WithRSAEncryption": 28,
+    "md5WithRSAEncryption": 6,
+    "ecdsa-with-SHA384": 5,
+    "Unknown OID": 1
+  },
+  "algorithm_types": {
+    "RSA": 77,
+    "ECC": 5
+  },
+  "certificates": [
+    {
+      "issuer": "Blizzard Entertainment - Blizzard Battle.net Local Cert - Battle.net",
+      "valid_from": "2022-03-12T02:23:39+00:00",
+      "valid_to": "2032-03-09T02:23:39+00:00",
+      "validity_period": 3650,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "23A13"
+    },
+    {
+      "issuer": "Interezen CA - Interezen",
+      "valid_from": "2015-10-27T06:21:14+00:00",
+      "valid_to": "2025-10-24T06:21:14+00:00",
+      "validity_period": 3650,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert Trusted Root G4 - www.digicert.com",
+      "valid_from": "2013-08-01T12:00:00+00:00",
+      "valid_to": "2038-01-15T12:00:00+00:00",
+      "validity_period": 8933,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "59B1B579E8E2132E23907BDA777755C"
+    },
+    {
+      "issuer": "iniLINE Co., Ltd. - iniLINE CrossEX RootCA2",
+      "valid_from": "2018-10-10T08:28:15+00:00",
+      "valid_to": "2099-12-31T08:28:15+00:00",
+      "validity_period": 29667,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "Microsoft Root Certificate Authority",
+      "valid_from": "2001-05-09T23:19:22+00:00",
+      "valid_to": "2021-05-09T23:28:13+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "79AD16A14AA0A5AD4C7358F407132E65"
+    },
+    {
+      "issuer": "Cyberlink - RDME",
+      "valid_from": "2019-06-18T10:34:27+00:00",
+      "valid_to": "2029-06-15T10:34:27+00:00",
+      "validity_period": 3650,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "793CB88FF9B02ADE450670043A142719EF63BB39"
+    },
+    {
+      "issuer": "DigiCert, Inc. - DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+      "valid_from": "2022-04-11T00:00:00+00:00",
+      "valid_to": "2025-04-10T23:59:59+00:00",
+      "validity_period": 1095,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "8FABFA8F305A513536B9F231CD3249C"
+    },
+    {
+      "issuer": "Thawte - Thawte Timestamping CA - Thawte Certification",
+      "valid_from": "1997-01-01T00:00:00+00:00",
+      "valid_to": "2020-12-31T23:59:59+00:00",
+      "validity_period": 8765,
+      "signature_algorithm": "md5WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "GlobalSign nv-sa - GlobalSign Root CA - Root CA",
+      "valid_from": "1998-09-01T12:00:00+00:00",
+      "valid_to": "2028-01-28T12:00:00+00:00",
+      "validity_period": 10741,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "40000000001154B5AC394"
+    },
+    {
+      "issuer": "LumenSoft CA - Mobile",
+      "valid_from": "2012-08-08T06:18:45+00:00",
+      "valid_to": "2052-07-29T06:18:45+00:00",
+      "validity_period": 14600,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "E9FDFD6EE2EF74FC"
+    },
+    {
+      "issuer": "Microsoft Root Authority - Copyright (c) 1997 Microsoft Corp.",
+      "valid_from": "1997-01-10T07:00:00+00:00",
+      "valid_to": "2020-12-31T07:00:00+00:00",
+      "validity_period": 8756,
+      "signature_algorithm": "md5WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "C1008B3C3C8811D13EF663ECDF40"
+    },
+    {
+      "issuer": "WIZVERA - WIZVERA-CA-SHA2",
+      "valid_from": "2019-10-23T03:04:08+00:00",
+      "valid_to": "2040-05-05T03:04:08+00:00",
+      "validity_period": 7500,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "20BBEB748527AEAA25FB381926DE8DC207102B71"
+    },
+    {
+      "issuer": "Symantec Corporation - Symantec Enterprise Mobile Root for Microsoft",
+      "valid_from": "2012-03-15T00:00:00+00:00",
+      "valid_to": "2032-03-14T23:59:59+00:00",
+      "validity_period": 7304,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "F6B552F9EBF907B0F6629A9BDF4D8CE"
+    },
+    {
+      "issuer": "thawte, Inc. - thawte Primary Root CA - Certification Services Division",
+      "valid_from": "2006-11-17T00:00:00+00:00",
+      "valid_to": "2036-07-16T23:59:59+00:00",
+      "validity_period": 10834,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "344ED55720D5EDEC49F42FCE37DB2B6D"
+    },
+    {
+      "issuer": "Microsoft Corporation - Microsoft Root Certificate Authority 2011",
+      "valid_from": "2011-03-22T22:05:28+00:00",
+      "valid_to": "2036-03-22T22:13:04+00:00",
+      "validity_period": 9132,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "3F8BC8B5FC9FB29643B569D66C42E144"
+    },
+    {
+      "issuer": "MSFT - Microsoft Authenticode(tm) Root Authority",
+      "valid_from": "1995-01-01T08:00:01+00:00",
+      "valid_to": "1999-12-31T23:59:59+00:00",
+      "validity_period": 1825,
+      "signature_algorithm": "md5WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "Interezen CA - Interezen",
+      "valid_from": "2015-10-27T06:21:22+00:00",
+      "valid_to": "2025-10-24T06:21:22+00:00",
+      "validity_period": 3650,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "Personal - Root - MangoWire",
+      "valid_from": "2024-01-29T04:21:16+00:00",
+      "valid_to": "2025-01-28T04:21:16+00:00",
+      "validity_period": 365,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "E2"
+    },
+    {
+      "issuer": "DESKTOP-V176PIM",
+      "valid_from": "2024-04-30T09:48:56+00:00",
+      "valid_to": "3023-09-01T09:48:56+00:00",
+      "validity_period": 365000,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1A428144F8514A94401CAD0676AECBB9"
+    },
+    {
+      "issuer": "VeriSign, Inc. - VeriSign Class 3 Public Primary Certification Authority - G5 - VeriSign Trust Network",
+      "valid_from": "2006-11-08T00:00:00+00:00",
+      "valid_to": "2036-07-16T23:59:59+00:00",
+      "validity_period": 10843,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "18DAD19E267DE8BB4A2158CDCC6B3B4A"
+    },
+    {
+      "issuer": "unidocs",
+      "valid_from": "2016-07-14T08:54:46+00:00",
+      "valid_to": "2026-07-12T08:54:46+00:00",
+      "validity_period": 3650,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "INCA Internet Co., Ltd. - INCA Internet Co., Ltd. G2 - INCA Internet Co., Ltd. - For Authorized use only",
+      "valid_from": "2024-03-16T11:21:51+00:00",
+      "valid_to": "2034-03-14T11:21:51+00:00",
+      "validity_period": 3650,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "2"
+    },
+    {
+      "issuer": "Microsoft Corporation - Microsoft Root Certificate Authority 2010",
+      "valid_from": "2010-06-23T21:57:24+00:00",
+      "valid_to": "2035-06-23T22:04:01+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "28CC3A25BFBA44AC449A9B586B4339AA"
+    },
+    {
+      "issuer": "VeriSign, Inc. - VeriSign Universal Root Certification Authority - VeriSign Trust Network",
+      "valid_from": "2008-04-02T00:00:00+00:00",
+      "valid_to": "2037-12-01T23:59:59+00:00",
+      "validity_period": 10835,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "401AC46421B31321030EBBE4121AC51D"
+    },
+    {
+      "issuer": "Microsoft Corporation - Microsoft ECC TS Root Certificate Authority 2018",
+      "valid_from": "2018-02-27T20:51:34+00:00",
+      "valid_to": "2043-02-27T21:00:12+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "ecdsa-with-SHA384",
+      "algorithm_type": "ECC",
+      "is_expired": false,
+      "serial_number": "153875E1647ED1B047B4EFAF41128245"
+    },
+    {
+      "issuer": "KSIGN CO. LTD. - KSIGN CO. LTD. CA2",
+      "valid_from": "2018-01-05T05:56:05+00:00",
+      "valid_to": "2037-12-31T05:56:05+00:00",
+      "validity_period": 7300,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "AF8B2392E618748A"
+    },
+    {
+      "issuer": "Microsoft Trust Network - Microsoft Corporation",
+      "valid_from": "1997-05-13T16:12:59+00:00",
+      "valid_to": "1999-12-30T23:59:59+00:00",
+      "validity_period": 961,
+      "signature_algorithm": "md5WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "Kings Information & Network Co., Ltd - Kings Information & Network Co., Ltd Local Root CA",
+      "valid_from": "2024-12-07T02:06:00+00:00",
+      "valid_to": "2044-12-02T02:06:00+00:00",
+      "validity_period": 7300,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "59D8"
+    },
+    {
+      "issuer": "MarkAny Inc. - e-Doc.",
+      "valid_from": "2017-04-25T04:41:07+00:00",
+      "valid_to": "2036-06-24T04:41:07+00:00",
+      "validity_period": 7000,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "9B47C30E5B364A9F"
+    },
+    {
+      "issuer": "VeriSign Trust Network - VeriSign, Inc.",
+      "valid_from": "1997-05-12T00:00:00+00:00",
+      "valid_to": "2004-01-07T23:59:59+00:00",
+      "validity_period": 2431,
+      "signature_algorithm": "md5WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "4A19D2388C82591CA55D735F155DDCA3"
+    },
+    {
+      "issuer": "Microsoft Corporation - Microsoft ECC Product Root Certificate Authority 2018",
+      "valid_from": "2018-02-27T20:42:08+00:00",
+      "valid_to": "2043-02-27T20:50:46+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "ecdsa-with-SHA384",
+      "algorithm_type": "ECC",
+      "is_expired": false,
+      "serial_number": "14982666DC7CCD8F4053677BB999EC85"
+    },
+    {
+      "issuer": "Hancom Secure Inc. - Hancom Secure Root Authority - Research and development office",
+      "valid_from": "2016-04-19T11:14:31+00:00",
+      "valid_to": "2036-04-14T11:14:31+00:00",
+      "validity_period": 7300,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert Assured ID Root CA - www.digicert.com",
+      "valid_from": "2006-11-10T00:00:00+00:00",
+      "valid_to": "2031-11-10T00:00:00+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "CE7E0E517D846FE8FE560FC1BF03039"
+    },
+    {
+      "issuer": "WIZVERA - WIZVERA-CA-SHA1",
+      "valid_from": "2019-10-23T03:05:33+00:00",
+      "valid_to": "2040-05-05T03:05:33+00:00",
+      "validity_period": 7500,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "74B7009EE43BC78FCE6973ADE1DA8B18C5E8725A"
+    },
+    {
+      "issuer": "Microsoft Corporation - Microsoft Time Stamp Root Certificate Authority 2014",
+      "valid_from": "2014-10-22T22:08:57+00:00",
+      "valid_to": "2039-10-22T22:15:19+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "2FD67A432293329045E953343EE27466"
+    },
+    {
+      "issuer": "Microsoft Corporation - Microsoft Identity Verification Root Certificate Authority 2020",
+      "valid_from": "2020-04-16T18:36:16+00:00",
+      "valid_to": "2045-04-16T18:44:40+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "5498D2D1D45B1995481379C811C08799"
+    },
+    {
+      "issuer": "The USERTRUST Network - UTN-USERFirst-Object - http://www.usertrust.com",
+      "valid_from": "1999-07-09T18:31:20+00:00",
+      "valid_to": "2019-07-09T18:40:36+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "44BE0C8B500024B411D3362DE0B35F1B"
+    },
+    {
+      "issuer": "IdenTrust - IdenTrust Commercial Root CA 1",
+      "valid_from": "2014-01-16T18:12:23+00:00",
+      "valid_to": "2034-01-16T18:12:23+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "A0142800000014523C844B500000002"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert Global Root G2 - www.digicert.com",
+      "valid_from": "2013-08-01T12:00:00+00:00",
+      "valid_to": "2038-01-15T12:00:00+00:00",
+      "validity_period": 8933,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "33AF1E6A711A9A0BB2864B11D09FAE5"
+    },
+    {
+      "issuer": "QuoVadis Limited - QuoVadis Root Certification Authority - Root Certification Authority",
+      "valid_from": "2001-03-19T18:33:33+00:00",
+      "valid_to": "2021-03-17T18:33:33+00:00",
+      "validity_period": 7303,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "3AB6508B"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert Trusted Root G4 - www.digicert.com",
+      "valid_from": "2013-08-01T12:00:00+00:00",
+      "valid_to": "2038-01-15T12:00:00+00:00",
+      "validity_period": 8933,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "59B1B579E8E2132E23907BDA777755C"
+    },
+    {
+      "issuer": "Digital Signature Trust Co. - DST Root CA X3",
+      "valid_from": "2000-09-30T21:12:19+00:00",
+      "valid_to": "2021-09-30T14:01:15+00:00",
+      "validity_period": 7669,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "44AFB080D6A327BA893039862EF8406B"
+    },
+    {
+      "issuer": "GlobalSign - GlobalSign Root CA - R3",
+      "valid_from": "2009-03-18T10:00:00+00:00",
+      "valid_to": "2029-03-18T10:00:00+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "4000000000121585308A2"
+    },
+    {
+      "issuer": "Baltimore - Baltimore CyberTrust Root - CyberTrust",
+      "valid_from": "2000-05-12T18:46:00+00:00",
+      "valid_to": "2025-05-12T23:59:00+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "20000B9"
+    },
+    {
+      "issuer": "Comodo CA Limited - AAA Certificate Services",
+      "valid_from": "2004-01-01T00:00:00+00:00",
+      "valid_to": "2028-12-31T23:59:59+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "The USERTRUST Network - USERTrust ECC Certification Authority",
+      "valid_from": "2010-02-01T00:00:00+00:00",
+      "valid_to": "2038-01-18T23:59:59+00:00",
+      "validity_period": 10213,
+      "signature_algorithm": "ecdsa-with-SHA384",
+      "algorithm_type": "ECC",
+      "is_expired": false,
+      "serial_number": "5C8B99C55A94C5D27156DECD8980CC26"
+    },
+    {
+      "issuer": "Sectigo Limited - Sectigo Public Code Signing Root R46",
+      "valid_from": "2021-03-22T00:00:00+00:00",
+      "valid_to": "2046-03-21T23:59:59+00:00",
+      "validity_period": 9130,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "4B2C3B01018BAD2ABC8C7B5B3EED9057"
+    },
+    {
+      "issuer": "Internet Security Research Group - ISRG Root X1",
+      "valid_from": "2015-06-04T11:04:38+00:00",
+      "valid_to": "2035-06-04T11:04:38+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "8210CFB0D240E3594463E0BB63828B00"
+    },
+    {
+      "issuer": "Starfield Technologies, Inc. - Starfield Root Certificate Authority - G2",
+      "valid_from": "2009-09-01T00:00:00+00:00",
+      "valid_to": "2037-12-31T23:59:59+00:00",
+      "validity_period": 10348,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "Entrust, Inc. - Entrust Root Certification Authority - www.entrust.net/CPS is incorporated by reference",
+      "valid_from": "2006-11-27T20:23:42+00:00",
+      "valid_to": "2026-11-27T20:53:42+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "456B5054"
+    },
+    {
+      "issuer": "GlobalSign nv-sa - GlobalSign Root CA - Root CA",
+      "valid_from": "1998-09-01T12:00:00+00:00",
+      "valid_to": "2028-01-28T12:00:00+00:00",
+      "validity_period": 10741,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "40000000001154B5AC394"
+    },
+    {
+      "issuer": "COMODO CA Limited - COMODO RSA Certification Authority",
+      "valid_from": "2010-01-19T00:00:00+00:00",
+      "valid_to": "2038-01-18T23:59:59+00:00",
+      "validity_period": 10226,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "4CAAF9CADB636FE01FF74ED85B03869D"
+    },
+    {
+      "issuer": "Starfield Technologies, Inc. - Starfield Class 2 Certification Authority",
+      "valid_from": "2004-06-29T17:39:16+00:00",
+      "valid_to": "2034-06-29T17:39:16+00:00",
+      "validity_period": 10957,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert Global Root CA - www.digicert.com",
+      "valid_from": "2006-11-10T00:00:00+00:00",
+      "valid_to": "2031-11-10T00:00:00+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "83BE056904246B1A1756AC95991C74A"
+    },
+    {
+      "issuer": "TAIWAN-CA - TWCA Global Root CA - Root CA",
+      "valid_from": "2012-06-27T06:28:33+00:00",
+      "valid_to": "2030-12-31T15:59:59+00:00",
+      "validity_period": 6761,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "CBE"
+    },
+    {
+      "issuer": "Starfield Technologies, Inc. - Starfield Services Root Certificate Authority - G2",
+      "valid_from": "2009-09-01T00:00:00+00:00",
+      "valid_to": "2037-12-31T23:59:59+00:00",
+      "validity_period": 10348,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "thawte, Inc. - thawte Primary Root CA - Certification Services Division",
+      "valid_from": "2006-11-17T00:00:00+00:00",
+      "valid_to": "2036-07-16T23:59:59+00:00",
+      "validity_period": 10834,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "344ED55720D5EDEC49F42FCE37DB2B6D"
+    },
+    {
+      "issuer": "Entrust, Inc. - Entrust Root Certification Authority - G2 - See www.entrust.net/legal-terms",
+      "valid_from": "2009-07-07T17:25:54+00:00",
+      "valid_to": "2030-12-07T17:55:54+00:00",
+      "validity_period": 7823,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "4A538C28"
+    },
+    {
+      "issuer": "SecureTrust Corporation - SecureTrust CA",
+      "valid_from": "2006-11-07T19:31:18+00:00",
+      "valid_to": "2029-12-31T19:40:55+00:00",
+      "validity_period": 8455,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "CF08E5C0816A5AD427FF0EB271859D0"
+    },
+    {
+      "issuer": "GlobalSign - GlobalSign Root CA - R6",
+      "valid_from": "2014-12-10T00:00:00+00:00",
+      "valid_to": "2034-12-10T00:00:00+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "45E6BB038333C3856548E6FF4551"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert Global Root G3 - www.digicert.com",
+      "valid_from": "2013-08-01T12:00:00+00:00",
+      "valid_to": "2038-01-15T12:00:00+00:00",
+      "validity_period": 8933,
+      "signature_algorithm": "ecdsa-with-SHA384",
+      "algorithm_type": "ECC",
+      "is_expired": false,
+      "serial_number": "55556BCF25EA43535C3A40FD5AB4572"
+    },
+    {
+      "issuer": "VeriSign, Inc. - Class 3 Public Primary Certification Authority",
+      "valid_from": "1996-01-29T00:00:00+00:00",
+      "valid_to": "2028-08-01T23:59:59+00:00",
+      "validity_period": 11873,
+      "signature_algorithm": "Unknown OID",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "70BAE41D10D92934B638CA7B03CCBABF"
+    },
+    {
+      "issuer": "Microsoft Corporation - Microsoft RSA Root Certificate Authority 2017",
+      "valid_from": "2019-12-18T22:51:22+00:00",
+      "valid_to": "2042-07-18T23:00:23+00:00",
+      "validity_period": 8248,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1ED397095FD8B4B347701EAABE7F45B3"
+    },
+    {
+      "issuer": "Thawte Consulting cc - Thawte Premium Server CA - Certification Services Division",
+      "valid_from": "1996-08-01T00:00:00+00:00",
+      "valid_to": "2020-12-31T23:59:59+00:00",
+      "validity_period": 8918,
+      "signature_algorithm": "md5WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "1"
+    },
+    {
+      "issuer": "Unizeto Sp. z o.o. - Certum CA",
+      "valid_from": "2002-06-11T10:46:39+00:00",
+      "valid_to": "2027-06-11T10:46:39+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "10020"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert High Assurance EV Root CA - www.digicert.com",
+      "valid_from": "2006-11-10T00:00:00+00:00",
+      "valid_to": "2031-11-10T00:00:00+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "2AC5C266A0B409B8F0B79F2AE462577"
+    },
+    {
+      "issuer": "SECOM Trust Systems CO.,LTD. - Security Communication RootCA2",
+      "valid_from": "2009-05-29T05:00:39+00:00",
+      "valid_to": "2029-05-29T05:00:39+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "WFA Hotspot 2.0 - Hotspot 2.0 Trust Root CA - 03",
+      "valid_from": "2013-12-08T12:00:00+00:00",
+      "valid_to": "2043-12-08T12:00:00+00:00",
+      "validity_period": 10957,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "CB30F70F286A433E0B90989DE01EDB7"
+    },
+    {
+      "issuer": "Entrust.net - Entrust.net Certification Authority (2048) - www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)",
+      "valid_from": "1999-12-24T17:50:51+00:00",
+      "valid_to": "2029-07-24T14:15:12+00:00",
+      "validity_period": 10804,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "3863DEF8"
+    },
+    {
+      "issuer": "GlobalSign nv-sa - GlobalSign Code Signing Root R45",
+      "valid_from": "2020-03-18T00:00:00+00:00",
+      "valid_to": "2045-03-18T00:00:00+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "7653FEAC75464893F5E5D74A483A4EF8"
+    },
+    {
+      "issuer": "VeriSign, Inc. - VeriSign Class 3 Public Primary Certification Authority - G5 - VeriSign Trust Network",
+      "valid_from": "2006-11-08T00:00:00+00:00",
+      "valid_to": "2036-07-16T23:59:59+00:00",
+      "validity_period": 10843,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "18DAD19E267DE8BB4A2158CDCC6B3B4A"
+    },
+    {
+      "issuer": "Buypass AS-983163327 - Buypass Class 2 Root CA",
+      "valid_from": "2010-10-26T08:38:03+00:00",
+      "valid_to": "2040-10-26T08:38:03+00:00",
+      "validity_period": 10958,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "2"
+    },
+    {
+      "issuer": "GoDaddy.com, Inc. - Go Daddy Root Certificate Authority - G2",
+      "valid_from": "2009-09-01T00:00:00+00:00",
+      "valid_to": "2037-12-31T23:59:59+00:00",
+      "validity_period": 10348,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "SECOM Trust.net - Security Communication RootCA1",
+      "valid_from": "2003-09-30T04:20:49+00:00",
+      "valid_to": "2023-09-30T04:20:49+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "VeriSign, Inc. - VeriSign Universal Root Certification Authority - VeriSign Trust Network",
+      "valid_from": "2008-04-02T00:00:00+00:00",
+      "valid_to": "2037-12-01T23:59:59+00:00",
+      "validity_period": 10835,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "401AC46421B31321030EBBE4121AC51D"
+    },
+    {
+      "issuer": "The USERTRUST Network - USERTrust RSA Certification Authority",
+      "valid_from": "2010-02-01T00:00:00+00:00",
+      "valid_to": "2038-01-18T23:59:59+00:00",
+      "validity_period": 10213,
+      "signature_algorithm": "sha384WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "1FD6D30FCA3CA51A81BBC640E35032D"
+    },
+    {
+      "issuer": "Google Trust Services LLC - GTS Root R4",
+      "valid_from": "2016-06-22T00:00:00+00:00",
+      "valid_to": "2036-06-22T00:00:00+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "ecdsa-with-SHA384",
+      "algorithm_type": "ECC",
+      "is_expired": false,
+      "serial_number": "6E47A9C88B94B6E8BB3B2AD8A2B2C199"
+    },
+    {
+      "issuer": "The Go Daddy Group, Inc. - Go Daddy Class 2 Certification Authority",
+      "valid_from": "2004-06-29T17:06:20+00:00",
+      "valid_to": "2034-06-29T17:06:20+00:00",
+      "validity_period": 10957,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "0"
+    },
+    {
+      "issuer": "WISeKey - OISTE WISeKey Global Root GB CA - OISTE Foundation Endorsed",
+      "valid_from": "2014-12-01T15:00:32+00:00",
+      "valid_to": "2039-12-01T15:10:31+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha256WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "76B1205274F0858746B3F8231AF6C2C0"
+    },
+    {
+      "issuer": "Unizeto Technologies S.A. - Certum Trusted Network CA - Certum Certification Authority",
+      "valid_from": "2008-10-22T12:07:37+00:00",
+      "valid_to": "2029-12-31T12:07:37+00:00",
+      "validity_period": 7740,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "444C0"
+    },
+    {
+      "issuer": "DigiCert Inc - DigiCert Assured ID Root CA - www.digicert.com",
+      "valid_from": "2006-11-10T00:00:00+00:00",
+      "valid_to": "2031-11-10T00:00:00+00:00",
+      "validity_period": 9131,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": false,
+      "serial_number": "CE7E0E517D846FE8FE560FC1BF03039"
+    },
+    {
+      "issuer": "AddTrust AB - AddTrust External CA Root - AddTrust External TTP Network",
+      "valid_from": "2000-05-30T10:48:38+00:00",
+      "valid_to": "2020-05-30T10:48:38+00:00",
+      "validity_period": 7305,
+      "signature_algorithm": "sha1WithRSAEncryption",
+      "algorithm_type": "RSA",
+      "is_expired": true,
+      "serial_number": "1"
+    }
+  ]
+}

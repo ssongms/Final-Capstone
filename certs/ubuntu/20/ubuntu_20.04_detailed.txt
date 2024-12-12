@@ -1,0 +1,1030 @@
+Certificate: /etc/ssl/certs/ACCVRAIZ1.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN = ACCVRAIZ1, OU = PKIACCV, O = ACCV, C = ES
+            Not Before: May  5 09:37:37 2011 GMT
+        Subject: CN = ACCVRAIZ1, OU = PKIACCV, O = ACCV, C = ES
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/AC_RAIZ_FNMT-RCM.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = ES, O = FNMT-RCM, OU = AC RAIZ FNMT-RCM
+            Not Before: Oct 29 15:59:56 2008 GMT
+        Subject: C = ES, O = FNMT-RCM, OU = AC RAIZ FNMT-RCM
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/AC_RAIZ_FNMT-RCM_SERVIDORES_SEGUROS.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = ES, O = FNMT-RCM, OU = Ceres, organizationIdentifier = VATES-Q2826004J, CN = AC RAIZ FNMT-RCM SERVIDORES SEGUROS
+            Not Before: Dec 20 09:37:33 2018 GMT
+        Subject: C = ES, O = FNMT-RCM, OU = Ceres, organizationIdentifier = VATES-Q2826004J, CN = AC RAIZ FNMT-RCM SERVIDORES SEGUROS
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Actalis_Authentication_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = IT, L = Milan, O = Actalis S.p.A./03358520967, CN = Actalis Authentication Root CA
+            Not Before: Sep 22 11:22:02 2011 GMT
+        Subject: C = IT, L = Milan, O = Actalis S.p.A./03358520967, CN = Actalis Authentication Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/AffirmTrust_Commercial.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = AffirmTrust, CN = AffirmTrust Commercial
+            Not Before: Jan 29 14:06:06 2010 GMT
+        Subject: C = US, O = AffirmTrust, CN = AffirmTrust Commercial
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/AffirmTrust_Networking.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = AffirmTrust, CN = AffirmTrust Networking
+            Not Before: Jan 29 14:08:24 2010 GMT
+        Subject: C = US, O = AffirmTrust, CN = AffirmTrust Networking
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/AffirmTrust_Premium_ECC.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = AffirmTrust, CN = AffirmTrust Premium ECC
+            Not Before: Jan 29 14:20:24 2010 GMT
+        Subject: C = US, O = AffirmTrust, CN = AffirmTrust Premium ECC
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/AffirmTrust_Premium.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, O = AffirmTrust, CN = AffirmTrust Premium
+            Not Before: Jan 29 14:10:36 2010 GMT
+        Subject: C = US, O = AffirmTrust, CN = AffirmTrust Premium
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Amazon_Root_CA_1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Amazon, CN = Amazon Root CA 1
+            Not Before: May 26 00:00:00 2015 GMT
+        Subject: C = US, O = Amazon, CN = Amazon Root CA 1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Amazon_Root_CA_2.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, O = Amazon, CN = Amazon Root CA 2
+            Not Before: May 26 00:00:00 2015 GMT
+        Subject: C = US, O = Amazon, CN = Amazon Root CA 2
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Amazon_Root_CA_3.pem
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = US, O = Amazon, CN = Amazon Root CA 3
+            Not Before: May 26 00:00:00 2015 GMT
+        Subject: C = US, O = Amazon, CN = Amazon Root CA 3
+    Signature Algorithm: ecdsa-with-SHA256
+-------------------
+Certificate: /etc/ssl/certs/Amazon_Root_CA_4.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Amazon, CN = Amazon Root CA 4
+            Not Before: May 26 00:00:00 2015 GMT
+        Subject: C = US, O = Amazon, CN = Amazon Root CA 4
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/ANF_Secure_Server_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: serialNumber = G63287510, C = ES, O = ANF Autoridad de Certificacion, OU = ANF CA Raiz, CN = ANF Secure Server Root CA
+            Not Before: Sep  4 10:00:38 2019 GMT
+        Subject: serialNumber = G63287510, C = ES, O = ANF Autoridad de Certificacion, OU = ANF CA Raiz, CN = ANF Secure Server Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Atos_TrustedRoot_2011.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN = Atos TrustedRoot 2011, O = Atos, C = DE
+            Not Before: Jul  7 14:58:30 2011 GMT
+        Subject: CN = Atos TrustedRoot 2011, O = Atos, C = DE
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Atos_TrustedRoot_Root_CA_ECC_TLS_2021.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: CN = Atos TrustedRoot Root CA ECC TLS 2021, O = Atos, C = DE
+            Not Before: Apr 22 09:26:23 2021 GMT
+        Subject: CN = Atos TrustedRoot Root CA ECC TLS 2021, O = Atos, C = DE
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Atos_TrustedRoot_Root_CA_RSA_TLS_2021.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: CN = Atos TrustedRoot Root CA RSA TLS 2021, O = Atos, C = DE
+            Not Before: Apr 22 09:21:10 2021 GMT
+        Subject: CN = Atos TrustedRoot Root CA RSA TLS 2021, O = Atos, C = DE
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = ES, CN = Autoridad de Certificacion Firmaprofesional CIF A62634068
+            Not Before: Sep 23 15:22:07 2014 GMT
+        Subject: C = ES, CN = Autoridad de Certificacion Firmaprofesional CIF A62634068
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Baltimore_CyberTrust_Root.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+            Not Before: May 12 18:46:00 2000 GMT
+        Subject: C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/BJCA_Global_Root_CA1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, O = BEIJING CERTIFICATE AUTHORITY, CN = BJCA Global Root CA1
+            Not Before: Dec 19 03:16:17 2019 GMT
+        Subject: C = CN, O = BEIJING CERTIFICATE AUTHORITY, CN = BJCA Global Root CA1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/BJCA_Global_Root_CA2.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = CN, O = BEIJING CERTIFICATE AUTHORITY, CN = BJCA Global Root CA2
+            Not Before: Dec 19 03:18:21 2019 GMT
+        Subject: C = CN, O = BEIJING CERTIFICATE AUTHORITY, CN = BJCA Global Root CA2
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Buypass_Class_2_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = NO, O = Buypass AS-983163327, CN = Buypass Class 2 Root CA
+            Not Before: Oct 26 08:38:03 2010 GMT
+        Subject: C = NO, O = Buypass AS-983163327, CN = Buypass Class 2 Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Buypass_Class_3_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = NO, O = Buypass AS-983163327, CN = Buypass Class 3 Root CA
+            Not Before: Oct 26 08:28:58 2010 GMT
+        Subject: C = NO, O = Buypass AS-983163327, CN = Buypass Class 3 Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/CA_Disig_Root_R2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = SK, L = Bratislava, O = Disig a.s., CN = CA Disig Root R2
+            Not Before: Jul 19 09:15:30 2012 GMT
+        Subject: C = SK, L = Bratislava, O = Disig a.s., CN = CA Disig Root R2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Certainly_Root_E1.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Certainly, CN = Certainly Root E1
+            Not Before: Apr  1 00:00:00 2021 GMT
+        Subject: C = US, O = Certainly, CN = Certainly Root E1
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Certainly_Root_R1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Certainly, CN = Certainly Root R1
+            Not Before: Apr  1 00:00:00 2021 GMT
+        Subject: C = US, O = Certainly, CN = Certainly Root R1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Certigna.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = FR, O = Dhimyotis, CN = Certigna
+            Not Before: Jun 29 15:13:05 2007 GMT
+        Subject: C = FR, O = Dhimyotis, CN = Certigna
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Certigna_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = FR, O = Dhimyotis, OU = 0002 48146308100036, CN = Certigna Root CA
+            Not Before: Oct  1 08:32:27 2013 GMT
+        Subject: C = FR, O = Dhimyotis, OU = 0002 48146308100036, CN = Certigna Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/certSIGN_Root_CA_G2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = RO, O = CERTSIGN SA, OU = certSIGN ROOT CA G2
+            Not Before: Feb  6 09:27:35 2017 GMT
+        Subject: C = RO, O = CERTSIGN SA, OU = certSIGN ROOT CA G2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/certSIGN_ROOT_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = RO, O = certSIGN, OU = certSIGN ROOT CA
+            Not Before: Jul  4 17:20:04 2006 GMT
+        Subject: C = RO, O = certSIGN, OU = certSIGN ROOT CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Certum_EC-384_CA.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = PL, O = Asseco Data Systems S.A., OU = Certum Certification Authority, CN = Certum EC-384 CA
+            Not Before: Mar 26 07:24:54 2018 GMT
+        Subject: C = PL, O = Asseco Data Systems S.A., OU = Certum Certification Authority, CN = Certum EC-384 CA
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Certum_Trusted_Network_CA_2.pem
+        Signature Algorithm: sha512WithRSAEncryption
+        Issuer: C = PL, O = Unizeto Technologies S.A., OU = Certum Certification Authority, CN = Certum Trusted Network CA 2
+            Not Before: Oct  6 08:39:56 2011 GMT
+        Subject: C = PL, O = Unizeto Technologies S.A., OU = Certum Certification Authority, CN = Certum Trusted Network CA 2
+    Signature Algorithm: sha512WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Certum_Trusted_Network_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = PL, O = Unizeto Technologies S.A., OU = Certum Certification Authority, CN = Certum Trusted Network CA
+            Not Before: Oct 22 12:07:37 2008 GMT
+        Subject: C = PL, O = Unizeto Technologies S.A., OU = Certum Certification Authority, CN = Certum Trusted Network CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Certum_Trusted_Root_CA.pem
+        Signature Algorithm: sha512WithRSAEncryption
+        Issuer: C = PL, O = Asseco Data Systems S.A., OU = Certum Certification Authority, CN = Certum Trusted Root CA
+            Not Before: Mar 16 12:10:13 2018 GMT
+        Subject: C = PL, O = Asseco Data Systems S.A., OU = Certum Certification Authority, CN = Certum Trusted Root CA
+    Signature Algorithm: sha512WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/CFCA_EV_ROOT.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, O = China Financial Certification Authority, CN = CFCA EV ROOT
+            Not Before: Aug  8 03:07:01 2012 GMT
+        Subject: C = CN, O = China Financial Certification Authority, CN = CFCA EV ROOT
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/CommScope_Public_Trust_ECC_Root-01.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = CommScope, CN = CommScope Public Trust ECC Root-01
+            Not Before: Apr 28 17:35:43 2021 GMT
+        Subject: C = US, O = CommScope, CN = CommScope Public Trust ECC Root-01
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/CommScope_Public_Trust_ECC_Root-02.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = CommScope, CN = CommScope Public Trust ECC Root-02
+            Not Before: Apr 28 17:44:54 2021 GMT
+        Subject: C = US, O = CommScope, CN = CommScope Public Trust ECC Root-02
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/CommScope_Public_Trust_RSA_Root-01.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = CommScope, CN = CommScope Public Trust RSA Root-01
+            Not Before: Apr 28 16:45:54 2021 GMT
+        Subject: C = US, O = CommScope, CN = CommScope Public Trust RSA Root-01
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/CommScope_Public_Trust_RSA_Root-02.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = CommScope, CN = CommScope Public Trust RSA Root-02
+            Not Before: Apr 28 17:16:43 2021 GMT
+        Subject: C = US, O = CommScope, CN = CommScope Public Trust RSA Root-02
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Comodo_AAA_Services_root.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+            Not Before: Jan  1 00:00:00 2004 GMT
+        Subject: C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/COMODO_Certification_Authority.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO Certification Authority
+            Not Before: Dec  1 00:00:00 2006 GMT
+        Subject: C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO Certification Authority
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/COMODO_ECC_Certification_Authority.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+            Not Before: Mar  6 00:00:00 2008 GMT
+        Subject: C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/COMODO_RSA_Certification_Authority.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+            Not Before: Jan 19 00:00:00 2010 GMT
+        Subject: C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_Assured_ID_Root_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root CA
+            Not Before: Nov 10 00:00:00 2006 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_Assured_ID_Root_G2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root G2
+            Not Before: Aug  1 12:00:00 2013 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root G2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_Assured_ID_Root_G3.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root G3
+            Not Before: Aug  1 12:00:00 2013 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root G3
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_Global_Root_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+            Not Before: Nov 10 00:00:00 2006 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_Global_Root_G2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+            Not Before: Aug  1 12:00:00 2013 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_Global_Root_G3.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G3
+            Not Before: Aug  1 12:00:00 2013 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G3
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_High_Assurance_EV_Root_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert High Assurance EV Root CA
+            Not Before: Nov 10 00:00:00 2006 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert High Assurance EV Root CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_TLS_ECC_P384_Root_G5.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = "DigiCert, Inc.", CN = DigiCert TLS ECC P384 Root G5
+            Not Before: Jan 15 00:00:00 2021 GMT
+        Subject: C = US, O = "DigiCert, Inc.", CN = DigiCert TLS ECC P384 Root G5
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_TLS_RSA4096_Root_G5.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, O = "DigiCert, Inc.", CN = DigiCert TLS RSA4096 Root G5
+            Not Before: Jan 15 00:00:00 2021 GMT
+        Subject: C = US, O = "DigiCert, Inc.", CN = DigiCert TLS RSA4096 Root G5
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/DigiCert_Trusted_Root_G4.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Trusted Root G4
+            Not Before: Aug  1 12:00:00 2013 GMT
+        Subject: C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Trusted Root G4
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/D-TRUST_BR_Root_CA_1_2020.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = DE, O = D-Trust GmbH, CN = D-TRUST BR Root CA 1 2020
+            Not Before: Feb 11 09:45:00 2020 GMT
+        Subject: C = DE, O = D-Trust GmbH, CN = D-TRUST BR Root CA 1 2020
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/D-TRUST_EV_Root_CA_1_2020.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = DE, O = D-Trust GmbH, CN = D-TRUST EV Root CA 1 2020
+            Not Before: Feb 11 10:00:00 2020 GMT
+        Subject: C = DE, O = D-Trust GmbH, CN = D-TRUST EV Root CA 1 2020
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_2009.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = DE, O = D-Trust GmbH, CN = D-TRUST Root Class 3 CA 2 2009
+            Not Before: Nov  5 08:35:58 2009 GMT
+        Subject: C = DE, O = D-Trust GmbH, CN = D-TRUST Root Class 3 CA 2 2009
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = DE, O = D-Trust GmbH, CN = D-TRUST Root Class 3 CA 2 EV 2009
+            Not Before: Nov  5 08:50:46 2009 GMT
+        Subject: C = DE, O = D-Trust GmbH, CN = D-TRUST Root Class 3 CA 2 EV 2009
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/emSign_ECC_Root_CA_-_C3.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, OU = emSign PKI, O = eMudhra Inc, CN = emSign ECC Root CA - C3
+            Not Before: Feb 18 18:30:00 2018 GMT
+        Subject: C = US, OU = emSign PKI, O = eMudhra Inc, CN = emSign ECC Root CA - C3
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/emSign_ECC_Root_CA_-_G3.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = IN, OU = emSign PKI, O = eMudhra Technologies Limited, CN = emSign ECC Root CA - G3
+            Not Before: Feb 18 18:30:00 2018 GMT
+        Subject: C = IN, OU = emSign PKI, O = eMudhra Technologies Limited, CN = emSign ECC Root CA - G3
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/emSign_Root_CA_-_C1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, OU = emSign PKI, O = eMudhra Inc, CN = emSign Root CA - C1
+            Not Before: Feb 18 18:30:00 2018 GMT
+        Subject: C = US, OU = emSign PKI, O = eMudhra Inc, CN = emSign Root CA - C1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/emSign_Root_CA_-_G1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = IN, OU = emSign PKI, O = eMudhra Technologies Limited, CN = emSign Root CA - G1
+            Not Before: Feb 18 18:30:00 2018 GMT
+        Subject: C = IN, OU = emSign PKI, O = eMudhra Technologies Limited, CN = emSign Root CA - G1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Entrust.net_Premium_2048_Secure_Server_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O = Entrust.net, OU = www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), OU = (c) 1999 Entrust.net Limited, CN = Entrust.net Certification Authority (2048)
+            Not Before: Dec 24 17:50:51 1999 GMT
+        Subject: O = Entrust.net, OU = www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), OU = (c) 1999 Entrust.net Limited, CN = Entrust.net Certification Authority (2048)
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Entrust_Root_Certification_Authority_-_EC1.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2012 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - EC1
+            Not Before: Dec 18 15:25:36 2012 GMT
+        Subject: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2012 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - EC1
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Entrust_Root_Certification_Authority_-_G2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2009 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - G2
+            Not Before: Jul  7 17:25:54 2009 GMT
+        Subject: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2009 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - G2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Entrust_Root_Certification_Authority_-_G4.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2015 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - G4
+            Not Before: May 27 11:11:16 2015 GMT
+        Subject: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2015 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - G4
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Entrust_Root_Certification_Authority.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = "Entrust, Inc.", OU = www.entrust.net/CPS is incorporated by reference, OU = "(c) 2006 Entrust, Inc.", CN = Entrust Root Certification Authority
+            Not Before: Nov 27 20:23:42 2006 GMT
+        Subject: C = US, O = "Entrust, Inc.", OU = www.entrust.net/CPS is incorporated by reference, OU = "(c) 2006 Entrust, Inc.", CN = Entrust Root Certification Authority
+                Not Before: Nov 27 20:23:42 2006 GMT, Not After: Nov 27 20:53:42 2026 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/ePKI_Root_Certification_Authority.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = TW, O = "Chunghwa Telecom Co., Ltd.", OU = ePKI Root Certification Authority
+            Not Before: Dec 20 02:31:27 2004 GMT
+        Subject: C = TW, O = "Chunghwa Telecom Co., Ltd.", OU = ePKI Root Certification Authority
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/e-Szigno_Root_CA_2017.pem
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = HU, L = Budapest, O = Microsec Ltd., organizationIdentifier = VATHU-23584497, CN = e-Szigno Root CA 2017
+            Not Before: Aug 22 12:07:06 2017 GMT
+        Subject: C = HU, L = Budapest, O = Microsec Ltd., organizationIdentifier = VATHU-23584497, CN = e-Szigno Root CA 2017
+    Signature Algorithm: ecdsa-with-SHA256
+-------------------
+Certificate: /etc/ssl/certs/GDCA_TrustAUTH_R5_ROOT.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, O = "GUANG DONG CERTIFICATE AUTHORITY CO.,LTD.", CN = GDCA TrustAUTH R5 ROOT
+            Not Before: Nov 26 05:13:15 2014 GMT
+        Subject: C = CN, O = "GUANG DONG CERTIFICATE AUTHORITY CO.,LTD.", CN = GDCA TrustAUTH R5 ROOT
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R4.pem
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: OU = GlobalSign ECC Root CA - R4, O = GlobalSign, CN = GlobalSign
+            Not Before: Nov 13 00:00:00 2012 GMT
+        Subject: OU = GlobalSign ECC Root CA - R4, O = GlobalSign, CN = GlobalSign
+    Signature Algorithm: ecdsa-with-SHA256
+-------------------
+Certificate: /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R5.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: OU = GlobalSign ECC Root CA - R5, O = GlobalSign, CN = GlobalSign
+            Not Before: Nov 13 00:00:00 2012 GMT
+        Subject: OU = GlobalSign ECC Root CA - R5, O = GlobalSign, CN = GlobalSign
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/GlobalSign_Root_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = BE, O = GlobalSign nv-sa, OU = Root CA, CN = GlobalSign Root CA
+            Not Before: Sep  1 12:00:00 1998 GMT
+        Subject: C = BE, O = GlobalSign nv-sa, OU = Root CA, CN = GlobalSign Root CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GlobalSign_Root_CA_-_R3.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: OU = GlobalSign Root CA - R3, O = GlobalSign, CN = GlobalSign
+            Not Before: Mar 18 10:00:00 2009 GMT
+        Subject: OU = GlobalSign Root CA - R3, O = GlobalSign, CN = GlobalSign
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GlobalSign_Root_CA_-_R6.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: OU = GlobalSign Root CA - R6, O = GlobalSign, CN = GlobalSign
+            Not Before: Dec 10 00:00:00 2014 GMT
+        Subject: OU = GlobalSign Root CA - R6, O = GlobalSign, CN = GlobalSign
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GlobalSign_Root_E46.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = BE, O = GlobalSign nv-sa, CN = GlobalSign Root E46
+            Not Before: Mar 20 00:00:00 2019 GMT
+        Subject: C = BE, O = GlobalSign nv-sa, CN = GlobalSign Root E46
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/GlobalSign_Root_R46.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = BE, O = GlobalSign nv-sa, CN = GlobalSign Root R46
+            Not Before: Mar 20 00:00:00 2019 GMT
+        Subject: C = BE, O = GlobalSign nv-sa, CN = GlobalSign Root R46
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GLOBALTRUST_2020.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = AT, O = e-commerce monitoring GmbH, CN = GLOBALTRUST 2020
+            Not Before: Feb 10 00:00:00 2020 GMT
+        Subject: C = AT, O = e-commerce monitoring GmbH, CN = GLOBALTRUST 2020
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Go_Daddy_Class_2_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = "The Go Daddy Group, Inc.", OU = Go Daddy Class 2 Certification Authority
+            Not Before: Jun 29 17:06:20 2004 GMT
+        Subject: C = US, O = "The Go Daddy Group, Inc.", OU = Go Daddy Class 2 Certification Authority
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Go_Daddy_Root_Certificate_Authority_-_G2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", CN = Go Daddy Root Certificate Authority - G2
+            Not Before: Sep  1 00:00:00 2009 GMT
+        Subject: C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", CN = Go Daddy Root Certificate Authority - G2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GTS_Root_R1.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, O = Google Trust Services LLC, CN = GTS Root R1
+            Not Before: Jun 22 00:00:00 2016 GMT
+        Subject: C = US, O = Google Trust Services LLC, CN = GTS Root R1
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GTS_Root_R2.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, O = Google Trust Services LLC, CN = GTS Root R2
+            Not Before: Jun 22 00:00:00 2016 GMT
+        Subject: C = US, O = Google Trust Services LLC, CN = GTS Root R2
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/GTS_Root_R3.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Google Trust Services LLC, CN = GTS Root R3
+            Not Before: Jun 22 00:00:00 2016 GMT
+        Subject: C = US, O = Google Trust Services LLC, CN = GTS Root R3
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/GTS_Root_R4.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Google Trust Services LLC, CN = GTS Root R4
+            Not Before: Jun 22 00:00:00 2016 GMT
+        Subject: C = US, O = Google Trust Services LLC, CN = GTS Root R4
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/HARICA_TLS_ECC_Root_CA_2021.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = GR, O = Hellenic Academic and Research Institutions CA, CN = HARICA TLS ECC Root CA 2021
+            Not Before: Feb 19 11:01:10 2021 GMT
+        Subject: C = GR, O = Hellenic Academic and Research Institutions CA, CN = HARICA TLS ECC Root CA 2021
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/HARICA_TLS_RSA_Root_CA_2021.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = GR, O = Hellenic Academic and Research Institutions CA, CN = HARICA TLS RSA Root CA 2021
+            Not Before: Feb 19 10:55:38 2021 GMT
+        Subject: C = GR, O = Hellenic Academic and Research Institutions CA, CN = HARICA TLS RSA Root CA 2021
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = GR, L = Athens, O = Hellenic Academic and Research Institutions Cert. Authority, CN = Hellenic Academic and Research Institutions ECC RootCA 2015
+            Not Before: Jul  7 10:37:12 2015 GMT
+        Subject: C = GR, L = Athens, O = Hellenic Academic and Research Institutions Cert. Authority, CN = Hellenic Academic and Research Institutions ECC RootCA 2015
+    Signature Algorithm: ecdsa-with-SHA256
+-------------------
+Certificate: /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = GR, L = Athens, O = Hellenic Academic and Research Institutions Cert. Authority, CN = Hellenic Academic and Research Institutions RootCA 2015
+            Not Before: Jul  7 10:11:21 2015 GMT
+        Subject: C = GR, L = Athens, O = Hellenic Academic and Research Institutions Cert. Authority, CN = Hellenic Academic and Research Institutions RootCA 2015
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/HiPKI_Root_CA_-_G1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = TW, O = "Chunghwa Telecom Co., Ltd.", CN = HiPKI Root CA - G1
+            Not Before: Feb 22 09:46:04 2019 GMT
+        Subject: C = TW, O = "Chunghwa Telecom Co., Ltd.", CN = HiPKI Root CA - G1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Hongkong_Post_Root_CA_3.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = HK, ST = Hong Kong, L = Hong Kong, O = Hongkong Post, CN = Hongkong Post Root CA 3
+            Not Before: Jun  3 02:29:46 2017 GMT
+        Subject: C = HK, ST = Hong Kong, L = Hong Kong, O = Hongkong Post, CN = Hongkong Post Root CA 3
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/IdenTrust_Commercial_Root_CA_1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = IdenTrust, CN = IdenTrust Commercial Root CA 1
+            Not Before: Jan 16 18:12:23 2014 GMT
+        Subject: C = US, O = IdenTrust, CN = IdenTrust Commercial Root CA 1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/IdenTrust_Public_Sector_Root_CA_1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = IdenTrust, CN = IdenTrust Public Sector Root CA 1
+            Not Before: Jan 16 17:53:32 2014 GMT
+        Subject: C = US, O = IdenTrust, CN = IdenTrust Public Sector Root CA 1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/ISRG_Root_X1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Internet Security Research Group, CN = ISRG Root X1
+            Not Before: Jun  4 11:04:38 2015 GMT
+        Subject: C = US, O = Internet Security Research Group, CN = ISRG Root X1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/ISRG_Root_X2.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Internet Security Research Group, CN = ISRG Root X2
+            Not Before: Sep  4 00:00:00 2020 GMT
+        Subject: C = US, O = Internet Security Research Group, CN = ISRG Root X2
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Izenpe.com.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = ES, O = IZENPE S.A., CN = Izenpe.com
+            Not Before: Dec 13 13:08:28 2007 GMT
+        Subject: C = ES, O = IZENPE S.A., CN = Izenpe.com
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Microsec_e-Szigno_Root_CA_2009.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = HU, L = Budapest, O = Microsec Ltd., CN = Microsec e-Szigno Root CA 2009, emailAddress = info@e-szigno.hu
+            Not Before: Jun 16 11:30:18 2009 GMT
+        Subject: C = HU, L = Budapest, O = Microsec Ltd., CN = Microsec e-Szigno Root CA 2009, emailAddress = info@e-szigno.hu
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Microsoft_ECC_Root_Certificate_Authority_2017.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Microsoft Corporation, CN = Microsoft ECC Root Certificate Authority 2017
+            Not Before: Dec 18 23:06:45 2019 GMT
+        Subject: C = US, O = Microsoft Corporation, CN = Microsoft ECC Root Certificate Authority 2017
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Microsoft_RSA_Root_Certificate_Authority_2017.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, O = Microsoft Corporation, CN = Microsoft RSA Root Certificate Authority 2017
+            Not Before: Dec 18 22:51:22 2019 GMT
+        Subject: C = US, O = Microsoft Corporation, CN = Microsoft RSA Root Certificate Authority 2017
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/NAVER_Global_Root_Certification_Authority.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = KR, O = NAVER BUSINESS PLATFORM Corp., CN = NAVER Global Root Certification Authority
+            Not Before: Aug 18 08:58:42 2017 GMT
+        Subject: C = KR, O = NAVER BUSINESS PLATFORM Corp., CN = NAVER Global Root Certification Authority
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = HU, L = Budapest, O = NetLock Kft., OU = Tan\C3\BAs\C3\ADtv\C3\A1nykiad\C3\B3k (Certification Services), CN = NetLock Arany (Class Gold) F\C5\91tan\C3\BAs\C3\ADtv\C3\A1ny
+            Not Before: Dec 11 15:08:21 2008 GMT
+        Subject: C = HU, L = Budapest, O = NetLock Kft., OU = Tan\C3\BAs\C3\ADtv\C3\A1nykiad\C3\B3k (Certification Services), CN = NetLock Arany (Class Gold) F\C5\91tan\C3\BAs\C3\ADtv\C3\A1ny
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/OISTE_WISeKey_Global_Root_GB_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CH, O = WISeKey, OU = OISTE Foundation Endorsed, CN = OISTE WISeKey Global Root GB CA
+            Not Before: Dec  1 15:00:32 2014 GMT
+        Subject: C = CH, O = WISeKey, OU = OISTE Foundation Endorsed, CN = OISTE WISeKey Global Root GB CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/OISTE_WISeKey_Global_Root_GC_CA.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = CH, O = WISeKey, OU = OISTE Foundation Endorsed, CN = OISTE WISeKey Global Root GC CA
+            Not Before: May  9 09:48:34 2017 GMT
+        Subject: C = CH, O = WISeKey, OU = OISTE Foundation Endorsed, CN = OISTE WISeKey Global Root GC CA
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/QuoVadis_Root_CA_1_G3.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 1 G3
+            Not Before: Jan 12 17:27:44 2012 GMT
+        Subject: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 1 G3
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/QuoVadis_Root_CA_2_G3.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2 G3
+            Not Before: Jan 12 18:59:32 2012 GMT
+        Subject: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2 G3
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/QuoVadis_Root_CA_2.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2
+            Not Before: Nov 24 18:27:00 2006 GMT
+        Subject: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/QuoVadis_Root_CA_3_G3.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 3 G3
+            Not Before: Jan 12 20:26:32 2012 GMT
+        Subject: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 3 G3
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/QuoVadis_Root_CA_3.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 3
+            Not Before: Nov 24 19:11:23 2006 GMT
+        Subject: C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 3
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_E46.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication Root E46
+            Not Before: Mar 22 00:00:00 2021 GMT
+        Subject: C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication Root E46
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_R46.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication Root R46
+            Not Before: Mar 22 00:00:00 2021 GMT
+        Subject: C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication Root R46
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Secure_Global_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = SecureTrust Corporation, CN = Secure Global CA
+            Not Before: Nov  7 19:42:28 2006 GMT
+        Subject: C = US, O = SecureTrust Corporation, CN = Secure Global CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SecureSign_RootCA11.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = JP, O = "Japan Certification Services, Inc.", CN = SecureSign RootCA11
+            Not Before: Apr  8 04:56:47 2009 GMT
+        Subject: C = JP, O = "Japan Certification Services, Inc.", CN = SecureSign RootCA11
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SecureTrust_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = SecureTrust Corporation, CN = SecureTrust CA
+            Not Before: Nov  7 19:31:18 2006 GMT
+        Subject: C = US, O = SecureTrust Corporation, CN = SecureTrust CA
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Security_Communication_ECC_RootCA1.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = JP, O = "SECOM Trust Systems CO.,LTD.", CN = Security Communication ECC RootCA1
+            Not Before: Jun 16 05:15:28 2016 GMT
+        Subject: C = JP, O = "SECOM Trust Systems CO.,LTD.", CN = Security Communication ECC RootCA1
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Security_Communication_RootCA2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = JP, O = "SECOM Trust Systems CO.,LTD.", OU = Security Communication RootCA2
+            Not Before: May 29 05:00:39 2009 GMT
+        Subject: C = JP, O = "SECOM Trust Systems CO.,LTD.", OU = Security Communication RootCA2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Security_Communication_RootCA3.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = JP, O = "SECOM Trust Systems CO.,LTD.", CN = Security Communication RootCA3
+            Not Before: Jun 16 06:17:16 2016 GMT
+        Subject: C = JP, O = "SECOM Trust Systems CO.,LTD.", CN = Security Communication RootCA3
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Security_Communication_Root_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = JP, O = SECOM Trust.net, OU = Security Communication RootCA1
+            Not Before: Sep 30 04:20:49 2003 GMT
+        Subject: C = JP, O = SECOM Trust.net, OU = Security Communication RootCA1
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/ssl-cert-snakeoil.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN = songms
+            Not Before: Nov 16 10:04:10 2024 GMT
+        Subject: CN = songms
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_ECC.pem
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com EV Root Certification Authority ECC
+            Not Before: Feb 12 18:15:23 2016 GMT
+        Subject: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com EV Root Certification Authority ECC
+    Signature Algorithm: ecdsa-with-SHA256
+-------------------
+Certificate: /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com EV Root Certification Authority RSA R2
+            Not Before: May 31 18:14:37 2017 GMT
+        Subject: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com EV Root Certification Authority RSA R2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SSL.com_Root_Certification_Authority_ECC.pem
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com Root Certification Authority ECC
+            Not Before: Feb 12 18:14:03 2016 GMT
+        Subject: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com Root Certification Authority ECC
+    Signature Algorithm: ecdsa-with-SHA256
+-------------------
+Certificate: /etc/ssl/certs/SSL.com_Root_Certification_Authority_RSA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com Root Certification Authority RSA
+            Not Before: Feb 12 17:39:39 2016 GMT
+        Subject: C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com Root Certification Authority RSA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SSL.com_TLS_ECC_Root_CA_2022.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = SSL Corporation, CN = SSL.com TLS ECC Root CA 2022
+            Not Before: Aug 25 16:33:48 2022 GMT
+        Subject: C = US, O = SSL Corporation, CN = SSL.com TLS ECC Root CA 2022
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/SSL.com_TLS_RSA_Root_CA_2022.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = SSL Corporation, CN = SSL.com TLS RSA Root CA 2022
+            Not Before: Aug 25 16:34:22 2022 GMT
+        Subject: C = US, O = SSL Corporation, CN = SSL.com TLS RSA Root CA 2022
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Starfield_Class_2_CA.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, O = "Starfield Technologies, Inc.", OU = Starfield Class 2 Certification Authority
+            Not Before: Jun 29 17:39:16 2004 GMT
+        Subject: C = US, O = "Starfield Technologies, Inc.", OU = Starfield Class 2 Certification Authority
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Starfield_Root_Certificate_Authority_-_G2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Root Certificate Authority - G2
+            Not Before: Sep  1 00:00:00 2009 GMT
+        Subject: C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Root Certificate Authority - G2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Starfield_Services_Root_Certificate_Authority_-_G2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Services Root Certificate Authority - G2
+            Not Before: Sep  1 00:00:00 2009 GMT
+        Subject: C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Services Root Certificate Authority - G2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SwissSign_Gold_CA_-_G2.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = CH, O = SwissSign AG, CN = SwissSign Gold CA - G2
+            Not Before: Oct 25 08:30:35 2006 GMT
+        Subject: C = CH, O = SwissSign AG, CN = SwissSign Gold CA - G2
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SwissSign_Silver_CA_-_G2.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = CH, O = SwissSign AG, CN = SwissSign Silver CA - G2
+            Not Before: Oct 25 08:32:46 2006 GMT
+        Subject: C = CH, O = SwissSign AG, CN = SwissSign Silver CA - G2
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/SZAFIR_ROOT_CA2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = PL, O = Krajowa Izba Rozliczeniowa S.A., CN = SZAFIR ROOT CA2
+            Not Before: Oct 19 07:43:30 2015 GMT
+        Subject: C = PL, O = Krajowa Izba Rozliczeniowa S.A., CN = SZAFIR ROOT CA2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Telia_Root_CA_v2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = FI, O = Telia Finland Oyj, CN = Telia Root CA v2
+            Not Before: Nov 29 11:55:54 2018 GMT
+        Subject: C = FI, O = Telia Finland Oyj, CN = Telia Root CA v2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/TeliaSonera_Root_CA_v1.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O = TeliaSonera, CN = TeliaSonera Root CA v1
+            Not Before: Oct 18 12:00:50 2007 GMT
+        Subject: O = TeliaSonera, CN = TeliaSonera Root CA v1
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/TrustAsia_Global_Root_CA_G3.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = CN, O = "TrustAsia Technologies, Inc.", CN = TrustAsia Global Root CA G3
+            Not Before: May 20 02:10:19 2021 GMT
+        Subject: C = CN, O = "TrustAsia Technologies, Inc.", CN = TrustAsia Global Root CA G3
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/TrustAsia_Global_Root_CA_G4.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = CN, O = "TrustAsia Technologies, Inc.", CN = TrustAsia Global Root CA G4
+            Not Before: May 20 02:10:22 2021 GMT
+        Subject: C = CN, O = "TrustAsia Technologies, Inc.", CN = TrustAsia Global Root CA G4
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/Trustwave_Global_Certification_Authority.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, ST = Illinois, L = Chicago, O = "Trustwave Holdings, Inc.", CN = Trustwave Global Certification Authority
+            Not Before: Aug 23 19:34:12 2017 GMT
+        Subject: C = US, ST = Illinois, L = Chicago, O = "Trustwave Holdings, Inc.", CN = Trustwave Global Certification Authority
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/Trustwave_Global_ECC_P256_Certification_Authority.pem
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = US, ST = Illinois, L = Chicago, O = "Trustwave Holdings, Inc.", CN = Trustwave Global ECC P256 Certification Authority
+            Not Before: Aug 23 19:35:10 2017 GMT
+        Subject: C = US, ST = Illinois, L = Chicago, O = "Trustwave Holdings, Inc.", CN = Trustwave Global ECC P256 Certification Authority
+    Signature Algorithm: ecdsa-with-SHA256
+-------------------
+Certificate: /etc/ssl/certs/Trustwave_Global_ECC_P384_Certification_Authority.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, ST = Illinois, L = Chicago, O = "Trustwave Holdings, Inc.", CN = Trustwave Global ECC P384 Certification Authority
+            Not Before: Aug 23 19:36:43 2017 GMT
+        Subject: C = US, ST = Illinois, L = Chicago, O = "Trustwave Holdings, Inc.", CN = Trustwave Global ECC P384 Certification Authority
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_2.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = DE, O = T-Systems Enterprise Services GmbH, OU = T-Systems Trust Center, CN = T-TeleSec GlobalRoot Class 2
+            Not Before: Oct  1 10:40:14 2008 GMT
+        Subject: C = DE, O = T-Systems Enterprise Services GmbH, OU = T-Systems Trust Center, CN = T-TeleSec GlobalRoot Class 2
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_3.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = DE, O = T-Systems Enterprise Services GmbH, OU = T-Systems Trust Center, CN = T-TeleSec GlobalRoot Class 3
+            Not Before: Oct  1 10:29:56 2008 GMT
+        Subject: C = DE, O = T-Systems Enterprise Services GmbH, OU = T-Systems Trust Center, CN = T-TeleSec GlobalRoot Class 3
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = TR, L = Gebze - Kocaeli, O = Turkiye Bilimsel ve Teknolojik Arastirma Kurumu - TUBITAK, OU = Kamu Sertifikasyon Merkezi - Kamu SM, CN = TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1
+            Not Before: Nov 25 08:25:55 2013 GMT
+        Subject: C = TR, L = Gebze - Kocaeli, O = Turkiye Bilimsel ve Teknolojik Arastirma Kurumu - TUBITAK, OU = Kamu Sertifikasyon Merkezi - Kamu SM, CN = TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/TunTrust_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = TN, O = Agence Nationale de Certification Electronique, CN = TunTrust Root CA
+            Not Before: Apr 26 08:57:56 2019 GMT
+        Subject: C = TN, O = Agence Nationale de Certification Electronique, CN = TunTrust Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/TWCA_Global_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = TW, O = TAIWAN-CA, OU = Root CA, CN = TWCA Global Root CA
+            Not Before: Jun 27 06:28:33 2012 GMT
+        Subject: C = TW, O = TAIWAN-CA, OU = Root CA, CN = TWCA Global Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/TWCA_Root_Certification_Authority.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = TW, O = TAIWAN-CA, OU = Root CA, CN = TWCA Root Certification Authority
+            Not Before: Aug 28 07:24:33 2008 GMT
+        Subject: C = TW, O = TAIWAN-CA, OU = Root CA, CN = TWCA Root Certification Authority
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/UCA_Extended_Validation_Root.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, O = UniTrust, CN = UCA Extended Validation Root
+            Not Before: Mar 13 00:00:00 2015 GMT
+        Subject: C = CN, O = UniTrust, CN = UCA Extended Validation Root
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/UCA_Global_G2_Root.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, O = UniTrust, CN = UCA Global G2 Root
+            Not Before: Mar 11 00:00:00 2016 GMT
+        Subject: C = CN, O = UniTrust, CN = UCA Global G2 Root
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/USERTrust_ECC_Certification_Authority.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust ECC Certification Authority
+            Not Before: Feb  1 00:00:00 2010 GMT
+        Subject: C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust ECC Certification Authority
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/USERTrust_RSA_Certification_Authority.pem
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+            Not Before: Feb  1 00:00:00 2010 GMT
+        Subject: C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+    Signature Algorithm: sha384WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/vTrus_ECC_Root_CA.pem
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = CN, O = "iTrusChina Co.,Ltd.", CN = vTrus ECC Root CA
+            Not Before: Jul 31 07:26:44 2018 GMT
+        Subject: C = CN, O = "iTrusChina Co.,Ltd.", CN = vTrus ECC Root CA
+    Signature Algorithm: ecdsa-with-SHA384
+-------------------
+Certificate: /etc/ssl/certs/vTrus_Root_CA.pem
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, O = "iTrusChina Co.,Ltd.", CN = vTrus Root CA
+            Not Before: Jul 31 07:24:05 2018 GMT
+        Subject: C = CN, O = "iTrusChina Co.,Ltd.", CN = vTrus Root CA
+    Signature Algorithm: sha256WithRSAEncryption
+-------------------
+Certificate: /etc/ssl/certs/XRamp_Global_CA_Root.pem
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C = US, OU = www.xrampsecurity.com, O = XRamp Security Services Inc, CN = XRamp Global Certification Authority
+            Not Before: Nov  1 17:14:04 2004 GMT
+        Subject: C = US, OU = www.xrampsecurity.com, O = XRamp Security Services Inc, CN = XRamp Global Certification Authority
+    Signature Algorithm: sha1WithRSAEncryption
+-------------------
